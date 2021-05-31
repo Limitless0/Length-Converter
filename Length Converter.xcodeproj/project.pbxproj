@@ -60,6 +60,7 @@
 			);
 			path = "Length Converter";
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		C721106C26651D87007B2860 /* Preview Content */ = {
 			isa = PBXGroup;
